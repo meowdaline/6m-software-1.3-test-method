@@ -27,7 +27,7 @@
 ---
 
 ### Q7: Which of the following is NOT a primitive data type in JavaScript?
-- D: undefined 
+- object
 ---
 
 ### Q8: Which of the following statements is NOT true?
