@@ -1,42 +1,44 @@
 # Quiz
+## Agile SCRUM
 
-## Testing Methodologies
+### Q1: Agile and SCRUM are identical.
 
-### Q1: Which of the following is NOT a part of the software development life cycle?
-- D: None of the above
----
-
-### Q2: What test deals with isolation testing of the smallest piece of logic?
-- A: Unit testing
----
-
-### Q3: What test deals with testing the functionality of the software by end users before launch?
-- C: Acceptance testing
----
-
-### Q4: What test deals with testing multiple software modules together as a group?
-- B: Integration testing
----
-
-### Q5: What test determines the peak load and/or how many requests can the system receive.
-- B: Stress testing
----
-
-### Q6: Each programming language has only one testing framework dedicated to it.
 - B: False
 ---
 
-### Q7: Which of the following is NOT a primitive data type in JavaScript?
-- object
+### Q2: Which of the following is incorrect about Agile Manifesto?
+
+- D: Following a plan > responding to change
 ---
 
-### Q8: Which of the following statements is NOT true?
-- D: Strings should be inside double quotes(“”).
+### Q3: Which role is not part of the SCRUM Team?
+
+- D: Deployment Specialist
 ---
 
-### Q9: Testing should only be done right before the application is released to the public
-- B: False
----
+### Q4: Which of the following is NOT part of the three pillars in SCRUM Theory?
 
-### Q10: Arrays in Javascript start with what index?
-- A: 0
+- A: Competency
+---
+### Q5: Which of the following is not a SCRUM Value?
+
+- B: Test
+---
+### Q6: Which of the following is false about what sprint is?
+- A: It is a 3-days fast development track.
+---
+### Q7: Which of the following is false about what sprint planning is?
+
+- B: It is where product backlog is being filled with user stories.
+---
+### Q8: Which sentence is false in describing the difference between sprint backlog and product backlog?
+
+- D: Sprint backlog contains only the outstanding user stories from previous sprint.
+---
+### Q9: Which of the following is incorrect about the definition of done?
+
+- C: The developer who undertake the task defines the definition of done independently.
+---
+### Q10: Which of the following does not describe the purpose of retrospective meeting?
+
+- D: All improvements should be implemented immediately in the next sprint.
